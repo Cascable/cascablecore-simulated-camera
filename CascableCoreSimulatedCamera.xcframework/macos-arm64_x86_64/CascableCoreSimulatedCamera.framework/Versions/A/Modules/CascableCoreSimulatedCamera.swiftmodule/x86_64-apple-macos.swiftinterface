@@ -1,0 +1,78 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.9 (swiftlang-5.9.0.128.108 clang-1500.0.40.1)
+// swift-module-flags: -target x86_64-apple-macos10.14 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name CascableCoreSimulatedCamera
+// swift-module-flags-ignorable: -enable-bare-slash-regex
+import AppKit
+import CascableCore
+import Foundation
+// (Private module import removed by CascableCore build script)
+import StopKit
+import Swift
+import UniformTypeIdentifiers
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+public struct SimulatedCameraConfiguration {
+  public var manufacturer: Swift.String
+  public var model: Swift.String
+  public var identifier: Swift.String
+  public var connectionAuthentication: CascableCoreSimulatedCamera.SimulatedAuthentication
+  public var connectionSpeed: CascableCoreSimulatedCamera.SimulatedConnectionSpeed
+  public var connectionTransports: Swift.Set<CascableCore.CameraTransport>
+  public var exposurePropertyType: CascableCoreSimulatedCamera.SimulatedPropertySetType
+  public var liveViewImageFrames: [Foundation.URL]
+  public var storageFileSystemRoot: Foundation.URL?
+  public var fileSystemAccess: CascableCoreSimulatedCamera.SimulatedFileSystemAccess
+  public func apply()
+}
+extension CascableCoreSimulatedCamera.SimulatedCameraConfiguration {
+  public static var `default`: CascableCoreSimulatedCamera.SimulatedCameraConfiguration {
+    get
+  }
+}
+public struct SimulatedConnectionSpeed {
+  public static let slow: CascableCoreSimulatedCamera.SimulatedConnectionSpeed
+  public static let fast: CascableCoreSimulatedCamera.SimulatedConnectionSpeed
+  public static let instant: CascableCoreSimulatedCamera.SimulatedConnectionSpeed
+}
+public enum SimulatedAuthentication {
+  case none
+  case pairOnCamera
+  case userNameAndPassword(Swift.String, Swift.String)
+  case fourDigitCode(Swift.String)
+}
+public enum SimulatedPropertySetType {
+  case enumerated
+  case stepped
+  public static func == (a: CascableCoreSimulatedCamera.SimulatedPropertySetType, b: CascableCoreSimulatedCamera.SimulatedPropertySetType) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+public enum SimulatedFileSystemAccess {
+  case alongsideRemoteShooting
+  case exclusivelyOfRemoteShooting
+  public static func == (a: CascableCoreSimulatedCamera.SimulatedFileSystemAccess, b: CascableCoreSimulatedCamera.SimulatedFileSystemAccess) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+public let SimulatedCameraFamily: Swift.Int
+public let SimulatedCameraPluginIdentifier: Swift.String
+@_inheritsConvenienceInitializers @objc(CBLSimulatedCameraEntryPoint) public class SimulatedCameraEntryPoint : ObjectiveC.NSObject, CascableCore.PluginEntryPoint {
+  @objc override dynamic public init()
+  @objc public class var pluginIdentifier: Swift.String {
+    @objc get
+  }
+  @objc public class var providedCameraFamily: CascableCore.CameraFamily {
+    @objc get
+  }
+  @objc public func register(with pluginRegistration: any CascableCore.PluginRegistration)
+  @objc deinit
+}
+extension CascableCoreSimulatedCamera.SimulatedPropertySetType : Swift.Equatable {}
+extension CascableCoreSimulatedCamera.SimulatedPropertySetType : Swift.Hashable {}
+extension CascableCoreSimulatedCamera.SimulatedFileSystemAccess : Swift.Equatable {}
+extension CascableCoreSimulatedCamera.SimulatedFileSystemAccess : Swift.Hashable {}
