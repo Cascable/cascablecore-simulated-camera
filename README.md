@@ -3,7 +3,7 @@
 This Swift Package Manager/SPM package contains a plugin for [CascableCore](https://github.com/cascable/cascablecore-distribution/) that provides a "simulated" camera through the regular CascableCore APIs. By including this package in your CascableCore-using product, you can work with the simulated camera with just a few lines of code.
 
 <p align="center">
-	<img width="800" src="https://raw.githubusercontent.com/Cascable/cascablecore-simulated-camera/main/Documentation%20Images/README%20Header.png?token=GHSAT0AAAAAACHPT4BNUHBXUOWBVRG7IC7YZLQQYEA">
+	<img width="800" src="https://github.com/Cascable/cascablecore-simulated-camera/assets/514900/344d1024-0238-4328-8bcc-70bcbdd68f47"><br>
 	<em>The simulated camera in use in some of Cascable's apps.</em>
 </p>
 
