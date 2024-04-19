@@ -2286,2389 +2286,2396 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 776,
       "length": 6,
       "value": "\"AF-S\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 803,
       "length": 16,
       "value": "\"SonyFocusModes\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 1126,
       "length": 6,
       "value": "\"AF-C\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 1153,
       "length": 16,
       "value": "\"SonyFocusModes\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 1356,
       "length": 4,
       "value": "\"MF\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 1381,
       "length": 16,
       "value": "\"SonyFocusModes\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 1757,
       "length": 41,
       "value": "\"EOSLiveViewAFSystemSinglePointFlexiZone\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 1819,
       "length": 18,
       "value": "\"CanonLVAFSystems\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 2157,
       "length": 35,
       "value": "\"EOSLiveViewAFSystemFlexiZoneMulti\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 2213,
       "length": 18,
       "value": "\"CanonLVAFSystems\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 2432,
       "length": 31,
       "value": "\"EOSLiveViewAFSystemFaceDetect\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 2484,
       "length": 18,
       "value": "\"CanonLVAFSystems\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 2864,
       "length": 20,
       "value": "\"EOSDriveModeSingle\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 2905,
       "length": 17,
       "value": "\"CanonDriveModes\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 3228,
       "length": 24,
       "value": "\"EOSDriveModeContinuous\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 3273,
       "length": 17,
       "value": "\"CanonDriveModes\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 3481,
       "length": 24,
       "value": "\"EOSDriveMode10SecTimer\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 3526,
       "length": 17,
       "value": "\"CanonDriveModes\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 3899,
       "length": 25,
       "value": "\"EOSWhiteBalanceDaylight\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 3945,
       "length": 20,
       "value": "\"CanonWhiteBalances\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 4239,
       "length": 21,
       "value": "\"EOSWhiteBalanceAuto\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 4281,
       "length": 20,
       "value": "\"CanonWhiteBalances\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 4509,
       "length": 22,
       "value": "\"EOSWhiteBalanceShade\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 4552,
       "length": 20,
       "value": "\"CanonWhiteBalances\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 4762,
       "length": 23,
       "value": "\"EOSWhiteBalanceCloudy\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 4806,
       "length": 20,
       "value": "\"CanonWhiteBalances\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 5018,
       "length": 29,
       "value": "\"EOSWhiteBalanceIncandescent\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 5068,
       "length": 20,
       "value": "\"CanonWhiteBalances\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 5283,
       "length": 33,
       "value": "\"EOSWhiteBalanceWhiteFluorescent\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 5337,
       "length": 20,
       "value": "\"CanonWhiteBalances\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 5546,
       "length": 22,
       "value": "\"EOSWhiteBalanceFlash\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 5589,
       "length": 20,
       "value": "\"CanonWhiteBalances\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 5799,
       "length": 26,
       "value": "\"EOSWhiteBalanceColorTemp\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 5846,
       "length": 20,
       "value": "\"CanonWhiteBalances\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 6236,
       "length": 18,
       "value": "\"EOSAEModeProgram\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 6275,
       "length": 14,
       "value": "\"CanonAEModes\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 6573,
       "length": 15,
       "value": "\"EOSAEModeBulb\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 6609,
       "length": 14,
       "value": "\"CanonAEModes\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 6825,
       "length": 31,
       "value": "\"EOSAEModeSceneIntelligentAuto\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 6877,
       "length": 14,
       "value": "\"CanonAEModes\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 7120,
       "length": 13,
       "value": "\"EOSAEModeAv\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 7154,
       "length": 14,
       "value": "\"CanonAEModes\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 7371,
       "length": 13,
       "value": "\"EOSAEModeTv\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 7405,
       "length": 14,
       "value": "\"CanonAEModes\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 7618,
       "length": 17,
       "value": "\"EOSAEModeManual\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 7656,
       "length": 14,
       "value": "\"CanonAEModes\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "Array",
       "offset": 7967,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "IntegerLiteral",
       "offset": 8210,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "Array",
       "offset": 8223,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "BooleanLiteral",
       "offset": 8239,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "IntegerLiteral",
       "offset": 8332,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "BooleanLiteral",
       "offset": 8369,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "IntegerLiteral",
       "offset": 8462,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "BooleanLiteral",
       "offset": 8498,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "IntegerLiteral",
       "offset": 8591,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "Array",
       "offset": 8604,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "BooleanLiteral",
       "offset": 8620,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "IntegerLiteral",
       "offset": 8713,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "BooleanLiteral",
       "offset": 8750,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "IntegerLiteral",
       "offset": 8843,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "BooleanLiteral",
       "offset": 8879,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "IntegerLiteral",
       "offset": 8972,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "Array",
       "offset": 8985,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "BooleanLiteral",
       "offset": 9001,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "IntegerLiteral",
       "offset": 9094,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "BooleanLiteral",
       "offset": 9131,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "IntegerLiteral",
       "offset": 9224,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "BooleanLiteral",
       "offset": 9260,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "IntegerLiteral",
       "offset": 9403,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "BooleanLiteral",
       "offset": 9439,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "IntegerLiteral",
       "offset": 9533,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "BooleanLiteral",
       "offset": 9570,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "IntegerLiteral",
       "offset": 9664,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "Array",
       "offset": 9677,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "BooleanLiteral",
       "offset": 9693,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "IntegerLiteral",
       "offset": 9787,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "BooleanLiteral",
       "offset": 9823,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "IntegerLiteral",
       "offset": 9917,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "BooleanLiteral",
       "offset": 9954,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "IntegerLiteral",
       "offset": 10048,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "Array",
       "offset": 10061,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "BooleanLiteral",
       "offset": 10077,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "IntegerLiteral",
       "offset": 10171,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "BooleanLiteral",
       "offset": 10207,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "IntegerLiteral",
       "offset": 10301,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "BooleanLiteral",
       "offset": 10338,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "IntegerLiteral",
       "offset": 10432,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "Array",
       "offset": 10445,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "BooleanLiteral",
       "offset": 10461,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "Array",
       "offset": 10847,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "IntegerLiteral",
       "offset": 11449,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "BooleanLiteral",
       "offset": 11485,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "Array",
       "offset": 11980,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "Array",
       "offset": 12097,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "FloatLiteral",
       "offset": 12384,
       "length": 4,
       "value": "30.0"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "FloatLiteral",
       "offset": 12456,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "FloatLiteral",
       "offset": 12462,
       "length": 6,
       "value": "8000.0"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "IntegerLiteral",
       "offset": 12659,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "Array",
       "offset": 13111,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "Array",
       "offset": 13228,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 13480,
       "length": 21,
       "value": "\"UniversalProperties\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 13704,
       "length": 31,
       "value": "\"CBLPropertyIdentifierAFSystem\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 13812,
       "length": 31,
       "value": "\"CBLPropertyIdentifierAperture\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 13921,
       "length": 32,
       "value": "\"CBLPropertyIdentifierArtFilter\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 14038,
       "length": 39,
       "value": "\"CBLPropertyIdentifierAutoExposureMode\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 14158,
       "length": 35,
       "value": "\"CBLPropertyIdentifierBatteryLevel\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 14271,
       "length": 32,
       "value": "\"CBLPropertyIdentifierColorTone\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 14383,
       "length": 34,
       "value": "\"CBLPropertyIdentifierDigitalZoom\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 14503,
       "length": 40,
       "value": "\"CBLPropertyIdentifierDOFPreviewEnabled\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 14621,
       "length": 32,
       "value": "\"CBLPropertyIdentifierDriveMode\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 14742,
       "length": 43,
       "value": "\"CBLPropertyIdentifierExposureCompensation\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 14863,
       "length": 32,
       "value": "\"CBLPropertyIdentifierFocusMode\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 14976,
       "length": 35,
       "value": "\"CBLPropertyIdentifierImageQuality\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 15105,
       "length": 48,
       "value": "\"CBLPropertyIdentifierInCameraBracketingEnabled\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 15230,
       "length": 31,
       "value": "\"CBLPropertyIdentifierISOSpeed\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 15340,
       "length": 33,
       "value": "\"CBLPropertyIdentifierLensStatus\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 15461,
       "length": 42,
       "value": "\"CBLPropertyIdentifierMirrorLockupEnabled\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 15589,
       "length": 40,
       "value": "\"CBLPropertyIdentifierMirrorLockupStage\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 15712,
       "length": 37,
       "value": "\"CBLPropertyIdentifierNoiseReduction\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 15829,
       "length": 34,
       "value": "\"CBLPropertyIdentifierPowerSource\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 15946,
       "length": 37,
       "value": "\"CBLPropertyIdentifierShotsAvailable\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 16064,
       "length": 35,
       "value": "\"CBLPropertyIdentifierShutterSpeed\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 16180,
       "length": 35,
       "value": "\"CBLPropertyIdentifierWhiteBalance\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+PropertyValues.swift",
       "kind": "StringLiteral",
       "offset": 16253,
       "length": 9,
       "value": "\"Unknown\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Public API\/SimulatedCameraConfiguration.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Public API\/SimulatedCameraConfiguration.swift",
       "kind": "StringLiteral",
       "offset": 3269,
       "length": 5,
       "value": "\"jpg\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Public API\/SimulatedCameraConfiguration.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Public API\/SimulatedCameraConfiguration.swift",
       "kind": "StringLiteral",
       "offset": 3290,
       "length": 18,
       "value": "\"Live View Images\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Public API\/SimulatedCameraConfiguration.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Public API\/SimulatedCameraConfiguration.swift",
       "kind": "Array",
       "offset": 3313,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Public API\/SimulatedCameraConfiguration.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Public API\/SimulatedCameraConfiguration.swift",
       "kind": "StringLiteral",
       "offset": 3449,
       "length": 10,
       "value": "\"Cascable\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Public API\/SimulatedCameraConfiguration.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Public API\/SimulatedCameraConfiguration.swift",
       "kind": "StringLiteral",
       "offset": 3512,
       "length": 18,
       "value": "\"Simulated Camera\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Public API\/SimulatedCameraConfiguration.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Public API\/SimulatedCameraConfiguration.swift",
       "kind": "FloatLiteral",
       "offset": 4427,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Public API\/SimulatedCameraConfiguration.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Public API\/SimulatedCameraConfiguration.swift",
       "kind": "FloatLiteral",
       "offset": 4433,
       "length": 4,
       "value": "10.0"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Public API\/SimulatedCameraConfiguration.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Public API\/SimulatedCameraConfiguration.swift",
       "kind": "FloatLiteral",
       "offset": 4447,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Public API\/SimulatedCameraConfiguration.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Public API\/SimulatedCameraConfiguration.swift",
       "kind": "FloatLiteral",
       "offset": 4453,
       "length": 3,
       "value": "5.0"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Public API\/SimulatedCameraConfiguration.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Public API\/SimulatedCameraConfiguration.swift",
       "kind": "FloatLiteral",
       "offset": 4465,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Public API\/SimulatedCameraConfiguration.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Public API\/SimulatedCameraConfiguration.swift",
       "kind": "FloatLiteral",
       "offset": 4471,
       "length": 3,
       "value": "2.0"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Public API\/SimulatedCameraConfiguration.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Public API\/SimulatedCameraConfiguration.swift",
       "kind": "FloatLiteral",
       "offset": 4613,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Public API\/SimulatedCameraConfiguration.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Public API\/SimulatedCameraConfiguration.swift",
       "kind": "FloatLiteral",
       "offset": 4619,
       "length": 4,
       "value": "25.0"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Public API\/SimulatedCameraConfiguration.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Public API\/SimulatedCameraConfiguration.swift",
       "kind": "FloatLiteral",
       "offset": 4633,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Public API\/SimulatedCameraConfiguration.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Public API\/SimulatedCameraConfiguration.swift",
       "kind": "FloatLiteral",
       "offset": 4639,
       "length": 4,
       "value": "15.0"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Public API\/SimulatedCameraConfiguration.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Public API\/SimulatedCameraConfiguration.swift",
       "kind": "FloatLiteral",
       "offset": 4652,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Public API\/SimulatedCameraConfiguration.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Public API\/SimulatedCameraConfiguration.swift",
       "kind": "FloatLiteral",
       "offset": 4658,
       "length": 4,
       "value": "10.0"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Public API\/SimulatedCameraConfiguration.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Public API\/SimulatedCameraConfiguration.swift",
       "kind": "FloatLiteral",
       "offset": 4855,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Public API\/SimulatedCameraConfiguration.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Public API\/SimulatedCameraConfiguration.swift",
       "kind": "FloatLiteral",
       "offset": 4868,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Public API\/SimulatedCameraConfiguration.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Public API\/SimulatedCameraConfiguration.swift",
       "kind": "FloatLiteral",
       "offset": 4880,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Plugin Interop\/SimulatedCameraDiscovery.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Plugin Interop\/SimulatedCameraDiscovery.swift",
       "kind": "Array",
       "offset": 723,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Plugin Interop\/SimulatedCameraDiscovery.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Plugin Interop\/SimulatedCameraDiscovery.swift",
       "kind": "BooleanLiteral",
       "offset": 842,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Plugin Interop\/SimulatedCameraDiscovery.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Plugin Interop\/SimulatedCameraDiscovery.swift",
       "kind": "FloatLiteral",
       "offset": 951,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Plugin Interop\/SimulatedCameraDiscovery.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Plugin Interop\/SimulatedCameraDiscovery.swift",
       "kind": "BooleanLiteral",
       "offset": 1341,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Plugin Interop\/SimulatedCameraDiscovery.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Plugin Interop\/SimulatedCameraDiscovery.swift",
       "kind": "BooleanLiteral",
       "offset": 1387,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Plugin Interop\/SimulatedCameraDiscovery.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Plugin Interop\/SimulatedCameraDiscovery.swift",
       "kind": "BooleanLiteral",
       "offset": 2098,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Plugin Interop\/SimulatedCameraDiscovery.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Plugin Interop\/SimulatedCameraDiscovery.swift",
       "kind": "BooleanLiteral",
       "offset": 2404,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "StringLiteral",
       "offset": 1176,
       "length": 9,
       "value": "\"Storage\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "IntegerLiteral",
       "offset": 1280,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "IntegerLiteral",
       "offset": 1367,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "BooleanLiteral",
       "offset": 1439,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "BooleanLiteral",
       "offset": 1492,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "StringLiteral",
       "offset": 244,
       "length": 22,
       "value": "\"CascableCoreSimulatedCamera.SimulatedCameraStorage\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "IntegerLiteral",
       "offset": 2303,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "IntegerLiteral",
       "offset": 2619,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "BooleanLiteral",
       "offset": 2690,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "BooleanLiteral",
       "offset": 2807,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "BooleanLiteral",
       "offset": 2855,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "BooleanLiteral",
       "offset": 2962,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "BooleanLiteral",
       "offset": 3000,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "BooleanLiteral",
       "offset": 3509,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "BooleanLiteral",
       "offset": 4193,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "Array",
       "offset": 4368,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "BooleanLiteral",
       "offset": 4585,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "BooleanLiteral",
       "offset": 4976,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "BooleanLiteral",
       "offset": 5020,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "BooleanLiteral",
       "offset": 5287,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "BooleanLiteral",
       "offset": 5352,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "IntegerLiteral",
       "offset": 8234,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "BooleanLiteral",
       "offset": 8270,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "BooleanLiteral",
       "offset": 8306,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "StringLiteral",
       "offset": 1792,
       "length": 21,
       "value": "\"CascableCoreSimulatedCamera.SimulatedCameraFolder\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "IntegerLiteral",
       "offset": 8944,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "IntegerLiteral",
       "offset": 9309,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "BooleanLiteral",
       "offset": 9381,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "BooleanLiteral",
       "offset": 9454,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "BooleanLiteral",
       "offset": 9497,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "Array",
       "offset": 9611,
-      "length": 92,
-      "value": "[\"png\", \"jpg\", \"jpeg\", \"crw\", \"raw\", \"cr2\", \"cr3\", \"nef\", \"nrw\", \"arw\", \"orf\", \"rw2\", \"raf\"]"
+      "length": 115,
+      "value": "[\"png\", \"jpg\", \"jpeg\", \"crw\", \"raw\", \"cr2\", \"cr3\", \"nef\", \"nrw\", \"arw\", \"orf\", \"rw2\", \"raf\", \"heic\", \"heif\", \"hif\"]"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "Array",
-      "offset": 9842,
+      "offset": 9865,
       "length": 28,
       "value": "[\"mov\", \"mp4\", \"m4v\", \"mkv\"]"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "BooleanLiteral",
-      "offset": 9960,
+      "offset": 9983,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "BooleanLiteral",
-      "offset": 10157,
+      "offset": 10180,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "FloatLiteral",
-      "offset": 11431,
+      "offset": 11454,
       "length": 5,
       "value": "300.0"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "StringLiteral",
-      "offset": 13014,
+      "offset": 13037,
       "length": 5,
       "value": "\"jpg\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "StringLiteral",
-      "offset": 13077,
+      "offset": 13100,
       "length": 6,
       "value": "\"jpeg\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "StringLiteral",
-      "offset": 13255,
+      "offset": 13278,
       "length": 5,
       "value": "\"cr3\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "Array",
-      "offset": 13565,
+      "offset": 13588,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "IntegerLiteral",
-      "offset": 13842,
+      "offset": 13865,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "FloatLiteral",
-      "offset": 15504,
+      "offset": 15527,
       "length": 6,
       "value": "1200.0"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "IntegerLiteral",
-      "offset": 16579,
+      "offset": 16602,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "BooleanLiteral",
-      "offset": 16615,
+      "offset": 16638,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "BooleanLiteral",
-      "offset": 16651,
+      "offset": 16674,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "IntegerLiteral",
-      "offset": 17568,
+      "offset": 17591,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "IntegerLiteral",
-      "offset": 18441,
+      "offset": 18464,
       "length": 4,
       "value": "1024"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "IntegerLiteral",
-      "offset": 18448,
+      "offset": 18471,
       "length": 4,
       "value": "1024"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "BooleanLiteral",
-      "offset": 19475,
+      "offset": 19498,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "BooleanLiteral",
-      "offset": 19539,
+      "offset": 19562,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "IntegerLiteral",
-      "offset": 19766,
+      "offset": 19789,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "FloatLiteral",
-      "offset": 19952,
+      "offset": 19975,
       "length": 3,
       "value": "0.8"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "StringLiteral",
       "offset": 8381,
       "length": 19,
       "value": "\"CascableCoreSimulatedCamera.SimulatedCameraFile\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
       "kind": "IntegerLiteral",
       "offset": 505,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
       "kind": "BooleanLiteral",
       "offset": 2677,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
       "kind": "StringLiteral",
       "offset": 2079,
       "length": 36,
       "value": "\"CascableCoreSimulatedCamera.SimulatedCameraPropertyObserverToken\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
       "kind": "StringLiteral",
       "offset": 4506,
       "length": 52,
       "value": "\"Got property category we don't know how to present\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
       "kind": "BooleanLiteral",
       "offset": 5107,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
       "kind": "Array",
       "offset": 5131,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
       "kind": "Array",
       "offset": 7526,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
       "kind": "IntegerLiteral",
       "offset": 9536,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
       "kind": "IntegerLiteral",
       "offset": 9636,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
       "kind": "IntegerLiteral",
       "offset": 11236,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
       "kind": "IntegerLiteral",
       "offset": 11265,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
       "kind": "IntegerLiteral",
       "offset": 11285,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
       "kind": "Array",
       "offset": 12193,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
       "kind": "BooleanLiteral",
       "offset": 12493,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
       "kind": "BooleanLiteral",
       "offset": 12585,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
       "kind": "Array",
       "offset": 13009,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
       "kind": "StringLiteral",
       "offset": 3026,
       "length": 23,
       "value": "\"CascableCoreSimulatedCamera.SimulatedCameraProperty\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
       "kind": "Array",
       "offset": 13650,
       "length": 16,
       "value": "[\"currentValue\"]"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
       "kind": "Array",
       "offset": 13886,
       "length": 23,
       "value": "[\"validSettableValues\"]"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
       "kind": "Array",
       "offset": 14152,
       "length": 23,
       "value": "[\"validSettableValues\"]"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
       "kind": "Array",
       "offset": 14653,
       "length": 23,
       "value": "[\"validSettableValues\"]"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
       "kind": "BooleanLiteral",
       "offset": 15095,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
       "kind": "Array",
       "offset": 15690,
       "length": 16,
       "value": "[\"currentValue\"]"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
       "kind": "Array",
       "offset": 15938,
       "length": 23,
       "value": "[\"validSettableValues\"]"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
       "kind": "Array",
       "offset": 16394,
       "length": 16,
       "value": "[\"currentValue\"]"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
       "kind": "Array",
       "offset": 16666,
       "length": 23,
       "value": "[\"validSettableValues\"]"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
       "kind": "BooleanLiteral",
       "offset": 17264,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
       "kind": "StringLiteral",
       "offset": 17427,
       "length": 38,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
       "kind": "StringLiteral",
       "offset": 17448,
       "length": 1,
       "value": "\": \""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
       "kind": "StringLiteral",
       "offset": 17464,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
       "kind": "StringLiteral",
       "offset": 16916,
       "length": 22,
       "value": "\"CascableCoreSimulatedCamera.SimulatedPropertyValue\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
       "kind": "BooleanLiteral",
       "offset": 18162,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
       "kind": "StringLiteral",
       "offset": 17664,
       "length": 30,
       "value": "\"CascableCoreSimulatedCamera.SimulatedExposurePropertyValue\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
       "kind": "StringLiteral",
       "offset": 18691,
       "length": 69,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
       "kind": "StringLiteral",
       "offset": 18715,
       "length": 1,
       "value": "\"x\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
       "kind": "StringLiteral",
       "offset": 18740,
       "length": 1,
       "value": "\" @ \""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
       "kind": "StringLiteral",
       "offset": 18755,
       "length": 3,
       "value": "\" fps\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
       "kind": "BooleanLiteral",
       "offset": 18906,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
       "kind": "StringLiteral",
       "offset": 18312,
       "length": 33,
       "value": "\"CascableCoreSimulatedCamera.SimulatedVideoFormatPropertyValue\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
       "kind": "StringLiteral",
       "offset": 19494,
       "length": 16,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
       "kind": "StringLiteral",
       "offset": 19508,
       "length": 1,
       "value": "\"x\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
       "kind": "StringLiteral",
       "offset": 19513,
       "length": 5,
       "value": "\"Off\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
       "kind": "BooleanLiteral",
       "offset": 19670,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
       "kind": "StringLiteral",
       "offset": 19179,
       "length": 39,
       "value": "\"CascableCoreSimulatedCamera.SimulatedLiveViewzoomLevelPropertyValue\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Plugin Interop\/SimulatedCameraEntryPoint.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Plugin Interop\/SimulatedCameraEntryPoint.swift",
       "kind": "IntegerLiteral",
       "offset": 291,
       "length": 2,
       "value": "99"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Plugin Interop\/SimulatedCameraEntryPoint.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Plugin Interop\/SimulatedCameraEntryPoint.swift",
       "kind": "StringLiteral",
       "offset": 377,
       "length": 50,
       "value": "\"se.cascable.CascableCore.plugin.simulated-camera\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "BooleanLiteral",
       "offset": 1489,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "StringLiteral",
       "offset": 2279,
       "length": 7,
       "value": "\".none\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "StringLiteral",
       "offset": 2326,
       "length": 15,
       "value": "\".pairOnCamera\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "StringLiteral",
       "offset": 2394,
       "length": 22,
       "value": "\".userNameAndPassword\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "StringLiteral",
       "offset": 2460,
       "length": 16,
       "value": "\".fourDigitCode\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "StringLiteral",
       "offset": 2519,
       "length": 37,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "StringLiteral",
       "offset": 2540,
       "length": 1,
       "value": "\": \""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "StringLiteral",
       "offset": 2555,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "StringLiteral",
       "offset": 1058,
       "length": 36,
       "value": "\"CascableCoreSimulatedCamera.SimulatedCameraAuthenticationContext\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "StringLiteral",
       "offset": 3095,
       "length": 24,
       "value": "\"CascableCoreSimulatedCamera.SimulatedVideoTimerValue\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "StringLiteral",
       "offset": 4069,
       "length": 11,
       "value": "\"localhost\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "StringLiteral",
       "offset": 4577,
       "length": 5,
       "value": "\"1.0\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "IntegerLiteral",
       "offset": 4772,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "BooleanLiteral",
       "offset": 4808,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "BooleanLiteral",
       "offset": 4847,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "StringLiteral",
       "offset": 3463,
       "length": 19,
       "value": "\"CascableCoreSimulatedCamera.SimulatedCameraInfo\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "StringLiteral",
       "offset": 5430,
       "length": 26,
       "value": "\"CascableCoreSimulatedCamera.SimulatedConnectionWarning\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
-      "kind": "FloatLiteral",
-      "offset": 6744,
-      "length": 3,
-      "value": "0.0"
-    },
-    {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "BooleanLiteral",
-      "offset": 6928,
+      "offset": 6486,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "kind": "FloatLiteral",
+      "offset": 6860,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "kind": "BooleanLiteral",
+      "offset": 7044,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "StringLiteral",
       "offset": 5719,
       "length": 22,
       "value": "\"CascableCoreSimulatedCamera.SimulatedLiveViewFrame\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "IntegerLiteral",
-      "offset": 8131,
+      "offset": 8247,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "IntegerLiteral",
-      "offset": 8180,
+      "offset": 8296,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "BooleanLiteral",
-      "offset": 8223,
+      "offset": 8339,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "BooleanLiteral",
-      "offset": 8267,
+      "offset": 8383,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "BooleanLiteral",
-      "offset": 8465,
+      "offset": 8581,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "BooleanLiteral",
-      "offset": 8548,
+      "offset": 8664,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "BooleanLiteral",
-      "offset": 8600,
+      "offset": 8716,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "StringLiteral",
-      "offset": 7922,
+      "offset": 8038,
       "length": 32,
       "value": "\"CascableCoreSimulatedCamera.SimulatedCameraInitiatedTransfer\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "BooleanLiteral",
-      "offset": 10081,
+      "offset": 10197,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "StringLiteral",
-      "offset": 10548,
+      "offset": 10664,
       "length": 5,
       "value": "\"JPG\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "BooleanLiteral",
-      "offset": 11414,
+      "offset": 11530,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "StringLiteral",
-      "offset": 9865,
+      "offset": 9981,
       "length": 38,
       "value": "\"CascableCoreSimulatedCamera.SimulatedCameraInitiatedTransferResult\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "StringLiteral",
-      "offset": 12933,
+      "offset": 13049,
       "length": 30,
       "value": "\"se.cascable.simulated-camera\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "BooleanLiteral",
-      "offset": 13005,
+      "offset": 13121,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "StringLiteral",
-      "offset": 13460,
+      "offset": 13576,
       "length": 11,
       "value": "\"connected\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "StringLiteral",
-      "offset": 13567,
+      "offset": 13683,
       "length": 11,
       "value": "\"connected\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "BooleanLiteral",
-      "offset": 13638,
+      "offset": 13754,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "FloatLiteral",
-      "offset": 14773,
+      "offset": 14889,
       "length": 4,
       "value": "20.0"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "BooleanLiteral",
-      "offset": 14813,
+      "offset": 14929,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "StringLiteral",
-      "offset": 15382,
+      "offset": 15498,
       "length": 6,
       "value": "\"100%\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "StringLiteral",
-      "offset": 15673,
+      "offset": 15789,
       "length": 15,
       "value": "\"ExternalPower\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "StringLiteral",
-      "offset": 15709,
+      "offset": 15825,
       "length": 21,
       "value": "\"SonyPTPPowerSources\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "IntegerLiteral",
-      "offset": 15820,
+      "offset": 15936,
       "length": 3,
       "value": "100"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "StringLiteral",
-      "offset": 15848,
+      "offset": 15964,
       "length": 5,
       "value": "\"100\""
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "BooleanLiteral",
-      "offset": 18917,
+      "offset": 19033,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "BooleanLiteral",
-      "offset": 19042,
+      "offset": 19158,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "BooleanLiteral",
-      "offset": 19121,
+      "offset": 19237,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "BooleanLiteral",
-      "offset": 19557,
+      "offset": 19673,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "BooleanLiteral",
-      "offset": 19856,
+      "offset": 19972,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "BooleanLiteral",
-      "offset": 20322,
+      "offset": 20438,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "BooleanLiteral",
-      "offset": 20653,
+      "offset": 20769,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "BooleanLiteral",
-      "offset": 21132,
+      "offset": 21248,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "BooleanLiteral",
-      "offset": 21396,
+      "offset": 21512,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "FloatLiteral",
-      "offset": 21722,
+      "offset": 21838,
       "length": 3,
       "value": "3.0"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "BooleanLiteral",
-      "offset": 21833,
+      "offset": 21949,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "BooleanLiteral",
-      "offset": 22540,
+      "offset": 22656,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "BooleanLiteral",
-      "offset": 22966,
+      "offset": 23082,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "Array",
-      "offset": 23770,
+      "offset": 23886,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "BooleanLiteral",
-      "offset": 26259,
+      "offset": 26375,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "BooleanLiteral",
-      "offset": 27272,
+      "offset": 27388,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "IntegerLiteral",
-      "offset": 28774,
+      "offset": 28890,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "BooleanLiteral",
-      "offset": 29854,
+      "offset": 29970,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "BooleanLiteral",
-      "offset": 29964,
+      "offset": 30080,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "IntegerLiteral",
-      "offset": 30085,
+      "offset": 30201,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "BooleanLiteral",
-      "offset": 30147,
+      "offset": 30263,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "FloatLiteral",
-      "offset": 30200,
+      "offset": 30316,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "FloatLiteral",
-      "offset": 30206,
+      "offset": 30322,
       "length": 4,
       "value": "30.0"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "BooleanLiteral",
-      "offset": 30221,
+      "offset": 30337,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "BooleanLiteral",
-      "offset": 30526,
+      "offset": 30642,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "IntegerLiteral",
-      "offset": 30687,
+      "offset": 30803,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "IntegerLiteral",
-      "offset": 30754,
+      "offset": 30870,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "BooleanLiteral",
-      "offset": 31259,
+      "offset": 31375,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "BooleanLiteral",
-      "offset": 31511,
+      "offset": 31627,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "BooleanLiteral",
-      "offset": 31568,
+      "offset": 31684,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "Dictionary",
-      "offset": 31631,
+      "offset": 31747,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "BooleanLiteral",
-      "offset": 31733,
+      "offset": 31849,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "BooleanLiteral",
-      "offset": 36503,
+      "offset": 36619,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "BooleanLiteral",
-      "offset": 37031,
+      "offset": 37147,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "BooleanLiteral",
-      "offset": 37508,
+      "offset": 37624,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "BooleanLiteral",
-      "offset": 38028,
+      "offset": 38144,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "BooleanLiteral",
-      "offset": 38120,
+      "offset": 38236,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "BooleanLiteral",
-      "offset": 38591,
+      "offset": 38707,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "BooleanLiteral",
-      "offset": 39105,
+      "offset": 39221,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "FloatLiteral",
-      "offset": 39209,
+      "offset": 39325,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "FloatLiteral",
-      "offset": 39732,
+      "offset": 39848,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "BooleanLiteral",
-      "offset": 39893,
+      "offset": 40009,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "FloatLiteral",
-      "offset": 41325,
+      "offset": 41441,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "BooleanLiteral",
-      "offset": 41339,
+      "offset": 41455,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "FloatLiteral",
-      "offset": 41829,
+      "offset": 41945,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "BooleanLiteral",
-      "offset": 41861,
+      "offset": 41977,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "BooleanLiteral",
-      "offset": 42061,
+      "offset": 42177,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/dkennett\/Projects\/Cascable\/cascable-core\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "StringLiteral",
-      "offset": 12425,
+      "offset": 12541,
       "length": 15,
       "value": "\"CascableCoreSimulatedCamera.SimulatedCamera\""
     }

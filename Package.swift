@@ -6,7 +6,7 @@ let package = Package(
     platforms: [.macOS(.v10_14), .iOS(.v12), .macCatalyst(.v15)],
     products: [.library(name: "CascableCoreSimulatedCamera", targets: ["CascableCoreSimulatedCamera"])],
     dependencies: [
-        .package(name: "CascableCore", url: "https://github.com/Cascable/cascablecore-distribution", .upToNextMinor(from: "13.0.0"))
+        .package(name: "CascableCore", url: "https://github.com/Cascable/cascablecore-distribution", .upToNextMinor(from: "13.2.0"))
     ], targets: [
         .binaryTarget(name: "CascableCoreSimulatedCamera", path: "CascableCoreSimulatedCamera.xcframework")
     ]

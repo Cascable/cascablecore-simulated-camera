@@ -6,7 +6,7 @@
 	<dict>
 		<key>Resources/Info.plist</key>
 		<data>
-		zDouE8BJZM+7VLPrZozXFQLuo8o=
+		MaOkT+k/bJ2LfXatFekgwKr+1OM=
 		</data>
 		<key>Resources/Live View Images/00000.jpg</key>
 		<data>
@@ -290,21 +290,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Q1SuEcQ3FnylLe0DHJQGUAw38xryfWOLp9kSUWt6TN4=
+			/ripixrHXALB7ZA/WLfAPlkt7Vr/5OI4UTJgALuMgu0=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreSimulatedCamera.swiftmodule/Project/x86_64-apple-macos.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/u14H+xhZ/t4ivOJQrwFQx9g29aVZ6K4u9wOIBpbTWg=
+			p9uNrAH6l6x1Y06CAU6cZrwT3QNbxU0wbGsWzIrwAx4=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreSimulatedCamera.swiftmodule/arm64-apple-macos.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ygzgahB0EPpkJCcJHSl1aC+TfC8Y43dq94nhzwKNCOs=
+			JBqQtwOU9MA5yoOKj5FcxWaXccmQ6NaPSp5rWzP3DcM=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreSimulatedCamera.swiftmodule/arm64-apple-macos.private.swiftinterface</key>
@@ -332,14 +332,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YAo36frLpOwz6ozzL3E90ckvhqmIaQDkgAPHFbmc6XQ=
+			4ZfQaxE7KK+EwRmDHHTd0qWoL5W21HdYhzEmYRXCmM4=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreSimulatedCamera.swiftmodule/x86_64-apple-macos.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ygzgahB0EPpkJCcJHSl1aC+TfC8Y43dq94nhzwKNCOs=
+			JBqQtwOU9MA5yoOKj5FcxWaXccmQ6NaPSp5rWzP3DcM=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreSimulatedCamera.swiftmodule/x86_64-apple-macos.private.swiftinterface</key>
@@ -367,7 +367,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			y7IXVmKkKsjVa2TstwdD1CR6moOtALX7xe8MTz1Bni4=
+			OjGS8PfZWIv+pl4I6iTnWyRluKZIWSCslkerFbML1xk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -381,7 +381,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			OobZIocuqYXiA2lIvL2eniSISqZyXt6eLoOywucuVGQ=
+			psuAFnW3YeCuIR+WsS27wJOje3sJiA9GKI2CuVUl/ak=
 			</data>
 		</dict>
 		<key>Resources/Live View Images/00000.jpg</key>
