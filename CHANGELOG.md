@@ -1,3 +1,10 @@
+# CascableCore Simulated Camera 1.0.3
+
+- Added support for the new API added in CascableCore 14.0.
+
+- Added support for visionOS.
+
+
 # CascableCore Simulated Camera 1.0.2
 
 - Added support for the new API added in CascableCore 13.2.

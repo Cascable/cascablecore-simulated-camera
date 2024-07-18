@@ -38,17 +38,17 @@
 	<key>DTPlatformName</key>
 	<string>macosx</string>
 	<key>DTPlatformVersion</key>
-	<string>14.2</string>
+	<string>14.5</string>
 	<key>DTSDKBuild</key>
-	<string>23C53</string>
+	<string>23F73</string>
 	<key>DTSDKName</key>
-	<string>macosx14.2</string>
+	<string>macosx14.5</string>
 	<key>DTXcode</key>
-	<string>1510</string>
+	<string>1540</string>
 	<key>DTXcodeBuild</key>
-	<string>15C65</string>
+	<string>15F31d</string>
 	<key>LSMinimumSystemVersion</key>
-	<string>12.0</string>
+	<string>14.0</string>
 	<key>NSHumanReadableCopyright</key>
 	<string>Copyright © 2016–2024 Cascable AB. All rights reserved.</string>
 	<key>UIDeviceFamily</key>

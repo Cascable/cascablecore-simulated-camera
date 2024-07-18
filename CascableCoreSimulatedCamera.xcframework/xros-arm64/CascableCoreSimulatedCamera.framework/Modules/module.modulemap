@@ -1,0 +1,4 @@
+framework module CascableCoreSimulatedCamera {
+  header "CascableCoreSimulatedCamera-Swift.h"
+  requires objc
+}
