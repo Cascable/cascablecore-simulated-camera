@@ -1,3 +1,8 @@
+# CascableCore Simulated Camera 1.0.4
+
+- Fixed a configuration error that caused version 1.0.3 to be built with an incorrect deployment target.
+
+
 # CascableCore Simulated Camera 1.0.3
 
 - Added support for the new API added in CascableCore 14.0.

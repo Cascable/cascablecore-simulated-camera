@@ -48,7 +48,7 @@
 	<key>DTXcodeBuild</key>
 	<string>15F31d</string>
 	<key>LSMinimumSystemVersion</key>
-	<string>14.0</string>
+	<string>12.0</string>
 	<key>NSHumanReadableCopyright</key>
 	<string>Copyright © 2016–2024 Cascable AB. All rights reserved.</string>
 	<key>UIDeviceFamily</key>
