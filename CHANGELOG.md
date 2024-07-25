@@ -1,3 +1,8 @@
+# CascableCore Simulated Camera 1.0.5
+
+- Fixed incorrect handling of command category querying and switching in some circumstances.
+
+
 # CascableCore Simulated Camera 1.0.4
 
 - Fixed a configuration error that caused version 1.0.3 to be built with an incorrect deployment target.
