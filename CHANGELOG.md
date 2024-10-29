@@ -1,3 +1,8 @@
+# CascableCore Simulated Camera 1.0.7
+
+- Updated for CascableCore 14.1.0.
+
+
 # CascableCore Simulated Camera 1.0.6
 
 - Autofocus methods are no longer rejected when in video mode.
