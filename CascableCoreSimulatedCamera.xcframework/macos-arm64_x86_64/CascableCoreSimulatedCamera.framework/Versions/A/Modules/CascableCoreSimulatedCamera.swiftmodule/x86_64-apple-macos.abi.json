@@ -1964,6 +1964,13 @@
       },
       {
         "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "CascableCoreSimulatedCamera"
+      },
+      {
+        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -2497,161 +2504,168 @@
     {
       "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "StringLiteral",
-      "offset": 1176,
+      "offset": 715,
+      "length": 76,
+      "value": "\"Frame size: %1.0fx%1.0f, frame rate: %1.2f, duration: %1.2f, codec: 0x%02x\""
+    },
+    {
+      "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
+      "kind": "StringLiteral",
+      "offset": 1825,
       "length": 9,
       "value": "\"Storage\""
     },
     {
       "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "IntegerLiteral",
-      "offset": 1280,
+      "offset": 1929,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "IntegerLiteral",
-      "offset": 1367,
+      "offset": 2016,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "BooleanLiteral",
-      "offset": 1439,
+      "offset": 2088,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "BooleanLiteral",
-      "offset": 1492,
+      "offset": 2141,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "IntegerLiteral",
-      "offset": 2303,
+      "offset": 2952,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "IntegerLiteral",
-      "offset": 2687,
+      "offset": 3336,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "BooleanLiteral",
-      "offset": 2758,
+      "offset": 3407,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "BooleanLiteral",
-      "offset": 2875,
+      "offset": 3524,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "BooleanLiteral",
-      "offset": 2923,
+      "offset": 3572,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "BooleanLiteral",
-      "offset": 3030,
+      "offset": 3679,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "BooleanLiteral",
-      "offset": 3068,
+      "offset": 3717,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "BooleanLiteral",
-      "offset": 5541,
+      "offset": 6190,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "BooleanLiteral",
-      "offset": 5606,
+      "offset": 6255,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "IntegerLiteral",
-      "offset": 9198,
+      "offset": 10567,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "IntegerLiteral",
-      "offset": 9631,
+      "offset": 11000,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "BooleanLiteral",
-      "offset": 9703,
+      "offset": 11072,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "BooleanLiteral",
-      "offset": 9776,
+      "offset": 11145,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "BooleanLiteral",
-      "offset": 9819,
+      "offset": 11188,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "Array",
-      "offset": 9933,
+      "offset": 11302,
       "length": 115,
       "value": "[\"png\", \"jpg\", \"jpeg\", \"crw\", \"raw\", \"cr2\", \"cr3\", \"nef\", \"nrw\", \"arw\", \"orf\", \"rw2\", \"raf\", \"heic\", \"heif\", \"hif\"]"
     },
     {
       "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "Array",
-      "offset": 10187,
+      "offset": 11556,
       "length": 28,
       "value": "[\"mov\", \"mp4\", \"m4v\", \"mkv\"]"
     },
     {
       "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "BooleanLiteral",
-      "offset": 10491,
+      "offset": 11860,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+FileSystem.swift",
       "kind": "BooleanLiteral",
-      "offset": 10688,
+      "offset": 12057,
       "length": 4,
       "value": "true"
     },
@@ -2665,28 +2679,28 @@
     {
       "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
       "kind": "BooleanLiteral",
-      "offset": 15095,
+      "offset": 15191,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
       "kind": "StringLiteral",
-      "offset": 17427,
+      "offset": 17523,
       "length": 38,
       "value": "\"\""
     },
     {
       "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
       "kind": "StringLiteral",
-      "offset": 17448,
+      "offset": 17544,
       "length": 1,
       "value": "\": \""
     },
     {
       "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
       "kind": "StringLiteral",
-      "offset": 17464,
+      "offset": 17560,
       "length": 1,
       "value": "\"\""
     },
@@ -2819,196 +2833,196 @@
     {
       "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "BooleanLiteral",
-      "offset": 8680,
+      "offset": 8746,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "BooleanLiteral",
-      "offset": 8732,
+      "offset": 8798,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "BooleanLiteral",
-      "offset": 10213,
+      "offset": 11011,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "StringLiteral",
-      "offset": 13065,
+      "offset": 15054,
       "length": 30,
       "value": "\"se.cascable.simulated-camera\""
     },
     {
       "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "BooleanLiteral",
-      "offset": 13137,
+      "offset": 15126,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "StringLiteral",
-      "offset": 13592,
+      "offset": 15581,
       "length": 11,
       "value": "\"connected\""
     },
     {
       "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "StringLiteral",
-      "offset": 13699,
+      "offset": 15688,
       "length": 11,
       "value": "\"connected\""
     },
     {
       "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "BooleanLiteral",
-      "offset": 13770,
+      "offset": 15759,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "BooleanLiteral",
-      "offset": 26678,
+      "offset": 28876,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "IntegerLiteral",
-      "offset": 29193,
+      "offset": 31391,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "BooleanLiteral",
-      "offset": 30273,
+      "offset": 32471,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "BooleanLiteral",
-      "offset": 30383,
+      "offset": 32581,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "IntegerLiteral",
-      "offset": 30504,
+      "offset": 32702,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "BooleanLiteral",
-      "offset": 30566,
+      "offset": 32764,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "FloatLiteral",
-      "offset": 30619,
+      "offset": 32817,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "FloatLiteral",
-      "offset": 30625,
+      "offset": 32823,
       "length": 4,
       "value": "30.0"
     },
     {
       "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "BooleanLiteral",
-      "offset": 30640,
+      "offset": 32838,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "BooleanLiteral",
-      "offset": 30945,
+      "offset": 33143,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "IntegerLiteral",
-      "offset": 31106,
+      "offset": 33304,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "IntegerLiteral",
-      "offset": 31173,
+      "offset": 33371,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "BooleanLiteral",
-      "offset": 31678,
+      "offset": 33876,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "BooleanLiteral",
-      "offset": 31930,
+      "offset": 34128,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "BooleanLiteral",
-      "offset": 31987,
+      "offset": 34185,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "Dictionary",
-      "offset": 32050,
+      "offset": 34248,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "BooleanLiteral",
-      "offset": 36922,
+      "offset": 39771,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "BooleanLiteral",
-      "offset": 37450,
+      "offset": 40299,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "BooleanLiteral",
-      "offset": 38647,
+      "offset": 41496,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera.swift",
       "kind": "BooleanLiteral",
-      "offset": 40420,
+      "offset": 43269,
       "length": 5,
       "value": "false"
     }

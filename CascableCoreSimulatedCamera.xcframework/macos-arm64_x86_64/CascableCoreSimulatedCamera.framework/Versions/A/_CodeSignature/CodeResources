@@ -290,28 +290,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RLfj3rfFhl/RDV+SVIG+p+LNj7SbUz8/yJgGu9ibmFk=
+			BgoHwtBkv2bvjNjpGbpgN4mMpDSa/+KLrO6Nm3v+RVk=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreSimulatedCamera.swiftmodule/Project/x86_64-apple-macos.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			We0399ccCXCMFNuIL/TecsYhT9tF+UZdRHZP+D5djlw=
+			Me4s1GnWk7RuaS8RKvaAhq6PyM3wxz0ng6X8lfDPiAE=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreSimulatedCamera.swiftmodule/arm64-apple-macos.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			oIQKt1napYJ1+zwA5y+IGj7cucQpFitpD1dvom1TQWk=
+			wZgMkXyQvF4SsHJwKhLS0tAAWTFtNa1++d3Cjgm99m0=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreSimulatedCamera.swiftmodule/arm64-apple-macos.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			agZANh/OaSTiknZLhGtRyA1BR6YGOF+AycJLMO6vnJU=
+			irqwKW2SbDUdW7QU81hhE3v3sSWLpWIF5Z4/MZpxeP8=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreSimulatedCamera.swiftmodule/arm64-apple-macos.swiftdoc</key>
@@ -325,28 +325,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			agZANh/OaSTiknZLhGtRyA1BR6YGOF+AycJLMO6vnJU=
+			irqwKW2SbDUdW7QU81hhE3v3sSWLpWIF5Z4/MZpxeP8=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreSimulatedCamera.swiftmodule/arm64-apple-macos.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			poTHmV68tBudSFaTeghBrVZ1q2h5Ff5ulc96TBWX2hY=
+			vOMhh07WknGLTE9rHE0dVeYeq0msvCGyLC79liSGOrI=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreSimulatedCamera.swiftmodule/x86_64-apple-macos.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			oIQKt1napYJ1+zwA5y+IGj7cucQpFitpD1dvom1TQWk=
+			wZgMkXyQvF4SsHJwKhLS0tAAWTFtNa1++d3Cjgm99m0=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreSimulatedCamera.swiftmodule/x86_64-apple-macos.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1BlMikYgOVTqDVsMGHJYyh2sqk3Hf2bMsKiIFQCVLVI=
+			ENDuT88+a22ZRwZKZb2g0kWvh3DDxegnc4I5pAJv9yk=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreSimulatedCamera.swiftmodule/x86_64-apple-macos.swiftdoc</key>
@@ -360,14 +360,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1BlMikYgOVTqDVsMGHJYyh2sqk3Hf2bMsKiIFQCVLVI=
+			ENDuT88+a22ZRwZKZb2g0kWvh3DDxegnc4I5pAJv9yk=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreSimulatedCamera.swiftmodule/x86_64-apple-macos.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xND0LH+K68HWj7ZJG0P52ywwMJnfZOFKHXzAKkUraKo=
+			q/5uKikni8P29pK/9jvsyQ/SQXCXcZtNW9sUFl3+ctA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
