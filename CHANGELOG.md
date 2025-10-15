@@ -1,3 +1,13 @@
+# CascableCore Simulated Camera 1.0.10
+
+- Updated for CascableCore 16.0.1.
+
+
+# CascableCore Simulated Camera 1.0.9
+
+- Updated for CascableCore 16.0.
+
+
 # CascableCore Simulated Camera 1.0.8
 
 - Updated for CascableCore 15.0.
