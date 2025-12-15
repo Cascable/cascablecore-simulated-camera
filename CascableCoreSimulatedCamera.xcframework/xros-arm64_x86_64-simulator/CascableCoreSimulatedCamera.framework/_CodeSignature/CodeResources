@@ -6,11 +6,11 @@
 	<dict>
 		<key>Headers/CascableCoreSimulatedCamera-Swift.h</key>
 		<data>
-		Y3Yqwxv9e/mqDgWvqiHHDicW1jk=
+		ZtB8Qf6nLZmKjshZtmpOIXj6Dlg=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		mT+2RVq4MA6EIRVDFxzbQVTfex8=
+		vLpN4VZdvkxfzjsCPWexZsZTMdU=
 		</data>
 		<key>Live View Images/00000.jpg</key>
 		<data>
@@ -282,51 +282,51 @@
 		</data>
 		<key>Modules/CascableCoreSimulatedCamera.swiftmodule/Project/arm64-apple-xros-simulator.swiftsourceinfo</key>
 		<data>
-		/D2bmDPr9kvj/z3+ZhZvwPJ/fes=
+		2hVoqwYiL05Xtk9NXMguy352kZo=
 		</data>
 		<key>Modules/CascableCoreSimulatedCamera.swiftmodule/Project/x86_64-apple-xros-simulator.swiftsourceinfo</key>
 		<data>
-		sZZHVwo5wVzFlKubDkKsBG7+mUo=
+		nEU8em/xg+XhuV3I6FiuiAPpMsw=
 		</data>
 		<key>Modules/CascableCoreSimulatedCamera.swiftmodule/arm64-apple-xros-simulator.abi.json</key>
 		<data>
-		fl0TgE2CTknFJpgYyHrNOXV6y74=
+		UyHSlIACgFxkLOCD1p2GoiJhhnI=
 		</data>
 		<key>Modules/CascableCoreSimulatedCamera.swiftmodule/arm64-apple-xros-simulator.private.swiftinterface</key>
 		<data>
-		2h7rtoUD3/OotS5i5Yq0UhIEQ14=
+		5uiG6ZlnAXl9pUgCwIwNQdA2twI=
 		</data>
 		<key>Modules/CascableCoreSimulatedCamera.swiftmodule/arm64-apple-xros-simulator.swiftdoc</key>
 		<data>
-		kqjUmyPoMOnHrM0bGQsVBVi7yjI=
+		I6d32zK8rb96ghG8xqwhrzoxto0=
 		</data>
 		<key>Modules/CascableCoreSimulatedCamera.swiftmodule/arm64-apple-xros-simulator.swiftinterface</key>
 		<data>
-		2h7rtoUD3/OotS5i5Yq0UhIEQ14=
+		5uiG6ZlnAXl9pUgCwIwNQdA2twI=
 		</data>
 		<key>Modules/CascableCoreSimulatedCamera.swiftmodule/arm64-apple-xros-simulator.swiftmodule</key>
 		<data>
-		M490yRGnbogKnTplRMQRxdKpILg=
+		eStSJ+HlKw2HVEycu5NuoTHzb/Y=
 		</data>
 		<key>Modules/CascableCoreSimulatedCamera.swiftmodule/x86_64-apple-xros-simulator.abi.json</key>
 		<data>
-		fl0TgE2CTknFJpgYyHrNOXV6y74=
+		UyHSlIACgFxkLOCD1p2GoiJhhnI=
 		</data>
 		<key>Modules/CascableCoreSimulatedCamera.swiftmodule/x86_64-apple-xros-simulator.private.swiftinterface</key>
 		<data>
-		XQ+FScrb18K1KDHMg5LoUGup2m4=
+		fWBeuiSC0h1Y7Rln+Ahl944Elgg=
 		</data>
 		<key>Modules/CascableCoreSimulatedCamera.swiftmodule/x86_64-apple-xros-simulator.swiftdoc</key>
 		<data>
-		9Zy+Ir8Bh6O4gYgj7s1P9rznKzg=
+		MSVEgWsMH4fBkt/xUr4TWEEYiXI=
 		</data>
 		<key>Modules/CascableCoreSimulatedCamera.swiftmodule/x86_64-apple-xros-simulator.swiftinterface</key>
 		<data>
-		XQ+FScrb18K1KDHMg5LoUGup2m4=
+		fWBeuiSC0h1Y7Rln+Ahl944Elgg=
 		</data>
 		<key>Modules/CascableCoreSimulatedCamera.swiftmodule/x86_64-apple-xros-simulator.swiftmodule</key>
 		<data>
-		qVYAbdchjBaGaqm62mYm2qVpGsw=
+		EusQsOmnZ2CIoeD0YvA9a0+VlE0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -339,7 +339,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			OXXjuR82pB1wf53dCcM0SYEhKUfTeOxLgcfHtherdns=
+			lcmya4BlKvovnywJPlGvU+62o8FPHUpuNpjeEQK5qcw=
 			</data>
 		</dict>
 		<key>Live View Images/00000.jpg</key>
@@ -815,84 +815,84 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KDLGBeyycrRBbmA0fc3aroMj0B0pPmW0p51TROxr8Oo=
+			CtTmZNq+U7MKV7m3dZMqtzNwdhLjWfqOHCtEhF8EMHI=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreSimulatedCamera.swiftmodule/Project/x86_64-apple-xros-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hO2Dqvile0vsLyO3xeFaqMWhH0m7qnCfFzmzoC6QgVc=
+			4VPl3bkFTWEoQnp4nrGge2jaxZXM0TbaESj7NkO2kaQ=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreSimulatedCamera.swiftmodule/arm64-apple-xros-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RQZB5I4adHwI9Snvr8+XA3zOUyEpp6SSO2JU6OnNVw8=
+			YMbu2sqBqCdRSDxUDAqP/N0mDs76K/dYQn2h9mOfIFc=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreSimulatedCamera.swiftmodule/arm64-apple-xros-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			A8MbI5P63LF15VykV2KIe9NdCnITG0vZZxOOZDGZDQM=
+			z/QMa1jNdrqykcTEMdZz/Dm36mZUanAo68qI7yPxL7Q=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreSimulatedCamera.swiftmodule/arm64-apple-xros-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			usDMTByT1p2UPnUfBtNNcB5ofzQfmBEhzryphU+u7sY=
+			FIntoxB4YHz8U5u233vkm4yaj6wL9eRogUduZttArKU=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreSimulatedCamera.swiftmodule/arm64-apple-xros-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			A8MbI5P63LF15VykV2KIe9NdCnITG0vZZxOOZDGZDQM=
+			z/QMa1jNdrqykcTEMdZz/Dm36mZUanAo68qI7yPxL7Q=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreSimulatedCamera.swiftmodule/arm64-apple-xros-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5D0uAAGVWsGtDOETPqemofanFwvthT/KUfc/EuvQ7pA=
+			tt1p9I4XVJdnU29GO+kOaijwKGqQuC6N86LXtBHEeD4=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreSimulatedCamera.swiftmodule/x86_64-apple-xros-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RQZB5I4adHwI9Snvr8+XA3zOUyEpp6SSO2JU6OnNVw8=
+			YMbu2sqBqCdRSDxUDAqP/N0mDs76K/dYQn2h9mOfIFc=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreSimulatedCamera.swiftmodule/x86_64-apple-xros-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aJq078jkHJ5yU8yzQDPI2otOw2pOolCr7m9zlbz9UUQ=
+			EVopMkXJX+/azaL1fqRnqKL3emRBCQjHPyDCpAdRpxk=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreSimulatedCamera.swiftmodule/x86_64-apple-xros-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PIxo8lu6nLdJ259qbnuAFhaQ8SJZQ9yTa3yboQQiBqw=
+			pYST5wgWZOeqmdBGNNPtrt71no1K3NpBsZTuliITs6E=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreSimulatedCamera.swiftmodule/x86_64-apple-xros-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aJq078jkHJ5yU8yzQDPI2otOw2pOolCr7m9zlbz9UUQ=
+			EVopMkXJX+/azaL1fqRnqKL3emRBCQjHPyDCpAdRpxk=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreSimulatedCamera.swiftmodule/x86_64-apple-xros-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			K0XXdPkCuZdXpJnqf3tr/aghl29AqvdDiMUgWyz5zIk=
+			gs+++1n5D6uv+kuWilLwKwQfaiVAC1vjxMQJSeKWqyI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

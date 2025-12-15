@@ -2626,6 +2626,13 @@
           },
           {
             "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
+          },
+          {
+            "kind": "Conformance",
             "name": "CaseIterable",
             "printedName": "CaseIterable",
             "children": [
@@ -2992,28 +2999,28 @@
     {
       "filePath": "\/Users\/dkennett\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
       "kind": "BooleanLiteral",
-      "offset": 12480,
+      "offset": 13133,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/dkennett\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
       "kind": "StringLiteral",
-      "offset": 14812,
+      "offset": 15465,
       "length": 38,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/dkennett\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
       "kind": "StringLiteral",
-      "offset": 14833,
+      "offset": 15486,
       "length": 1,
       "value": "\": \""
     },
     {
       "filePath": "\/Users\/dkennett\/Library\/TeamCity\/buildAgent\/work\/7bd3357680f6a3e2\/CascableCore Simulated Camera Plugin\/Camera Implementation\/SimulatedCamera+Properties.swift",
       "kind": "StringLiteral",
-      "offset": 14849,
+      "offset": 15502,
       "length": 1,
       "value": "\"\""
     },
